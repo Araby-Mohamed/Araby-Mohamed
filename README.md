@@ -133,7 +133,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Araby-Mohamed/Araby-Mohamed/output/snake.svg" alt="Snake animation" />
-
-###
